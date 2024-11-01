@@ -11,5 +11,6 @@ A health monitoring overlay for Diablo 4 in Python.
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/overlay-monitor.git](https://github.com/skryyt/diablo4-autohealth)
+   git clone
+(https://github.com/skryyt/diablo4-autohealth)
    cd diablo4-autohealth
