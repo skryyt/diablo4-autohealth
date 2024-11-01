@@ -1,6 +1,6 @@
-# Overlay Monitor
+# Diablo IV Auto health
 
-A health monitoring overlay for games created in Python.
+A health monitoring overlay for Diablo 4 in Python.
 
 ## Requirements
 
